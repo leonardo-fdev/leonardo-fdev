@@ -1,12 +1,13 @@
 # Leonardo Ferreira 👋
 
-Estudante de Ciência da Computação | Python | Em construção 🚧  
-Apaixonado por tecnologia e focado em aprender na prática, transformando estudos em projetos reais.
+Estudante de Ciência da Computação e desenvolvedor em formação.  
+Atualmente focado em Python, lógica de programação e construção de projetos práticos para evoluir na área de tecnologia e dados.
 
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ferreira-de-pina-5995b2287/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ferreira-de-pina-5995b2287/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardo-fdev)
 
 ---
@@ -18,17 +19,24 @@ Apaixonado por tecnologia e focado em aprender na prática, transformando estudo
 
 ---
 
-## 📂 Projetos
+## 📂 Projetos em Destaque
+
 🔹 **Cassino e Lanchonete (Python)**  
-Sistema em terminal que simula a entrada de clientes em um cassino e a compra de itens em uma lanchonete, com validação de dados, menus interativos e cálculo automático de valores.
+Sistema em terminal desenvolvido para praticar:
+- Lógica de programação  
+- Estruturação de funções  
+- Validação de entradas  
+- Simulação de regras de negócio  
 
 ---
 
 ## 📊 Estatísticas GitHub
-![Leonardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardo-fdev&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-fdev&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=leonardo-fdev&show_icons=true&theme=dark" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-fdev&layout=compact&theme=dark" />
+
 
 ---
 
-📌 Este perfil representa minha evolução prática na área de tecnologia.
+📌 Este perfil representa minha evolução prática como desenvolvedor, com foco em aprendizado contínuo e projetos reais.
