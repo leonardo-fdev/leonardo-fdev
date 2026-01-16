@@ -1,16 +1,21 @@
-## Hi there 👋
+# Leonardo Ferreira 👋
 
-<!--
-**leonardo-fdev/leonardo-fdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação e entusiasta de tecnologia.  
+Atualmente focado em Python, lógica de programação e construção de projetos práticos.
 
-Here are some ideas to get you started:
+🚀 Estou construindo meu portfólio com foco em:
+- Desenvolvimento em Python
+- Área de dados
+- Automação e lógica de sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias
+- Python
+- Git & GitHub
+- Lógica de programação
+- Estruturas de dados básicas
+
+## 📂 Projetos em destaque
+- Cassino e Lanchonete (Python)  
+  Sistema interativo via terminal com validação de dados e menu de compras.
+
+📌 Repositórios aqui representam minha evolução prática como desenvolvedor.
