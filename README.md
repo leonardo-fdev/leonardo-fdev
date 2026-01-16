@@ -3,6 +3,11 @@
 Estudante de Ciência da Computação e desenvolvedor em formação.  
 Atualmente focado em Python, lógica de programação e construção de projetos práticos para evoluir na área de tecnologia e dados.
 
+🚀 Estou construindo meu portfólio com foco em:
+- Desenvolvimento em Python
+- Área de dados
+- Automação e lógica de sistemas
+
 ---
 
 ## 🌐 Conecte-se comigo
@@ -27,14 +32,6 @@ Sistema em terminal desenvolvido para praticar:
 - Estruturação de funções  
 - Validação de entradas  
 - Simulação de regras de negócio  
-
----
-
-## 📊 Estatísticas GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=leonardo-fdev&show_icons=true&theme=dark" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-fdev&layout=compact&theme=dark" />
 
 
 ---
